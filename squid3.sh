@@ -1,7 +1,7 @@
 #Squid Proxy 3.1
-#PakTam
+#baymaxbhai & piratebhai
 
-apt-get -y install aptitude curl
+apt-gEt -y install aptitude curl
 
 # Specify our IP Server
 if [ "$IP" = "" ]; then
